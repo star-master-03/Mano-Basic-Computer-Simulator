@@ -1,5 +1,6 @@
 <img width="896" height="326" alt="image" src="https://github.com/user-attachments/assets/7dc8e28d-18cd-422a-81f3-87f023256cf1" /># Mano-Basic-Computer-Simulator
 Mano 아키텍처 기반 16비트 Basic Computer 2-Pass 어셈블러 및 CPU 시뮬레이터
+
 # 💻 Mano Basic Computer 2-Pass Assembler & Simulator
 
 2학년 1학기 컴퓨터구조 과제로 구현한 Mano Basic Computer의 16비트 아키텍처 어셈블러 컴파일러 및 명령어 사이클 시뮬레이터(에뮬레이터) 시스템입니다. 
